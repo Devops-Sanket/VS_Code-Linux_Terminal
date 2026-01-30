@@ -140,10 +140,6 @@ Example:
 
 ## STEP 9: Open Linux Terminal in VS Code
 
-Press:
-
-`` Ctrl + ` ``
-
 You should see:
 
 `username@DESKTOP-XXXX:~$`
@@ -185,5 +181,6 @@ Expected:
 `/home/username`
 
 🎉 **VS Code terminal is now 100% Linux**
+
 
 
