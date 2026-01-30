@@ -29,7 +29,8 @@ Open **PowerShell** again:
 
 Expected output:
 
-`NAME      STATE     VERSION Ubuntu    Running   2`
+`NAME      STATE     VERSION
+ Ubuntu    Running      2`
 
 If Ubuntu is missing:
 
@@ -183,3 +184,4 @@ Expected:
 `/home/username`
 
 🎉 **VS Code terminal is now 100% Linux**
+
