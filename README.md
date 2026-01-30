@@ -53,20 +53,6 @@ By following this repository, you will be able to:
 
 ---
 
-## 📂 Repository Structure
-
-wsl-vscode-linux-setup/
-│
-├── README.md
-├── steps/
-│ └── wsl-to-vscode-linux-terminal.md
-
-
-- **README.md** → Project overview and usage  
-- **steps/** → Detailed step-by-step guide  
-
----
-
 ## 🧭 Steps Covered in This Project
 
 This project covers everything from start to finish:
