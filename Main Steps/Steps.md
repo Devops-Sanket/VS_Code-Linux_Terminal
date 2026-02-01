@@ -102,7 +102,7 @@ From **Ubuntu terminal**, run:
 2.  Select:
     
 
-`WSL: New WSL Window`
+   `WSL: New WSL Window`
 
 * * *
 
@@ -182,6 +182,7 @@ Expected:
 ---
 🎉 **VS Code terminal is now 100% Linux**
 ---
+
 
 
 
