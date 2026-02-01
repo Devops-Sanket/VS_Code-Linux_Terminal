@@ -153,13 +153,11 @@ Example:
     
 2.  Select:
     
+    `Terminal: Select Default Profile`
 
-   `Terminal: Select Default Profile`
+3.  Choose: 
 
-3.  Choose:
-    
-
-   `bash (WSL)`
+    `bash (WSL)`
 
 Close terminal → open again.
 
@@ -184,6 +182,7 @@ Expected:
 ---
 🎉 **VS Code terminal is now 100% Linux**
 ---
+
 
 
 
