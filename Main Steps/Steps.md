@@ -1,6 +1,6 @@
 ## STEP 1: Install WSL (PowerShell)
 
-1.  Open **PowerShell as Administrator**
+1. 🖥️ Open **PowerShell as Administrator**
     
 2.  Run:
     
@@ -16,7 +16,7 @@
 *   Required Windows features
     
 
-3.  **Restart your PC** when asked
+3.  **🔄 Restart your PC** when asked
     
 
 * * *
@@ -27,13 +27,13 @@ Open **PowerShell** again:
 
 `wsl --list --verbose`
 
-Expected output:
+✅Expected output:
 
 | NAME   | STATE   | VERSION |
 |--------|---------|---------|
 | Ubuntu | Running | 2       |
 
-If Ubuntu is missing:
+❌If Ubuntu is missing:
 
 `wsl --install -d Ubuntu`
 
@@ -82,7 +82,7 @@ During install, make sure these are checked:
     
     `WSL`
     
-4.  Install **WSL (by Microsoft)**
+4. 📥 Install **WSL (by Microsoft)**
     
 
 * * *
@@ -142,7 +142,7 @@ Example:
 
  You should see:
 
-**`Username@DESKTOP-XXXX:~$`** |
+**`Username@DESKTOP-XXXX:~$`** | 📌
  **Example. (Sanket@Linux:~$)**
 
 * * *
@@ -159,7 +159,7 @@ Example:
 
     `bash (WSL)`
 
-**Close terminal → open again.**
+** 🔁Close terminal → open again.**
 
 * * *
 
@@ -169,26 +169,16 @@ Example:
 
 `uname -a`
 
-Expected:
+🟢Expected:
 
 `Linux ...`
 
 `pwd`
 
-Expected:
+🟢Expected:
 
 `/home/username`
 
 ---
-🎉 **VS Code terminal is now 100% Linux**
+🎉 **VS Code terminal is now 100% Linux** 🐧🚀
 ---
-
-
-
-
-
-
-
-
-
-
