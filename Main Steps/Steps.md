@@ -140,9 +140,10 @@ Example:
 
 ## STEP 9: Open Linux Terminal in VS Code
 
-You should see:
+ You should see:
 
-`username@DESKTOP-XXXX:~$`
+**`username@DESKTOP-XXXX:~$`**
+ **Ex. (Sanket@Linux:~$)**
 
 * * *
 
@@ -153,12 +154,12 @@ You should see:
 2.  Select:
     
 
-`Terminal: Select Default Profile`
+   `Terminal: Select Default Profile`
 
 3.  Choose:
     
 
-`bash (WSL)`
+   `bash (WSL)`
 
 Close terminal → open again.
 
@@ -180,7 +181,10 @@ Expected:
 
 `/home/username`
 
+---
 🎉 **VS Code terminal is now 100% Linux**
+---
+
 
 
 
