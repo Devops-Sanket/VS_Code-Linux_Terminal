@@ -159,13 +159,13 @@ Example:
 
     `bash (WSL)`
 
-Close terminal → open again.
+**Close terminal → open again.**
 
 * * *
 
 ## STEP 11: Verify Linux Environment
 
-Run:
+**Run:**
 
 `uname -a`
 
@@ -182,6 +182,7 @@ Expected:
 ---
 🎉 **VS Code terminal is now 100% Linux**
 ---
+
 
 
 
