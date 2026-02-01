@@ -142,7 +142,7 @@ Example:
 
  You should see:
 
-**`username@DESKTOP-XXXX:~$`** <br>
+**`username@DESKTOP-XXXX:~$`** 
  **Ex. (Sanket@Linux:~$)**
 
 * * *
@@ -184,6 +184,7 @@ Expected:
 ---
 🎉 **VS Code terminal is now 100% Linux**
 ---
+
 
 
 
