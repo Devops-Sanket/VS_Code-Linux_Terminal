@@ -21,7 +21,13 @@
 
 * * *
 
-## STEP 2: Check WSL Status (After Restart)
+## STEP 2: Install Ubuntu On Microsoft Store
+
+`Version: Ubuntu 24.04.1 LTS`
+
+* * *
+
+## STEP 3: Check WSL Status (After Restart)
 
 Open **PowerShell** again:
 
@@ -35,24 +41,9 @@ Open **PowerShell** again:
 
 ❌If Ubuntu is missing:
 
-`wsl --install -d Ubuntu`
+`wsl --install -d Ubuntu` <br>
 
-* * *
-
-## STEP 3: Open Ubuntu & Create Linux User
-
-1.  Open **Ubuntu** from Start Menu
-    
-2.  Wait for setup to complete
-    
-3.  Create:
-    
-    *   Linux username
-        
-    *   Linux password
-        
-
-You are now inside **Linux terminal** ✅
+ **(During Ubuntu setup, set a Linux username and password when prompted)**
 
 * * *
 
@@ -182,3 +173,4 @@ Example:
 ---
 🎉 **VS Code terminal is now 100% Linux** 🐧🚀
 ---
+
